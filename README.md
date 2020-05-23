@@ -1,8 +1,9 @@
 # ToDo List Android App
 
-An android app that helps us manage tasks (To-Do) and provides 3 setting features. This app has 2 screens, one for the ToDo application functionality, and other for changing settings.  
-In the first screen, we can add, edit, delete an mark ToDo items.  
-In the second screen, i.e., the settings screen, we can connect to a WiFi device displayed, adjust the device brightness and turn on/off flashlight.
+An android app that helps us **manage tasks** (To-Do) and provides **3 device setting features**. The storage is **persistent**, the items and their states are stored in a **SQLite database**.  
+This app has 2 screens, one for the ToDo application functionality, and other for changing settings.  
+In the first screen, we can **add**, **edit**, **delete** an **mark** ToDo items.  
+In the second screen, i.e., the settings screen, we can **connect to a WiFi device** displayed, **adjust the device brightness** and **turn on/off flashlight**.
 
 ## ToDo List Tab
 
